@@ -1,15 +1,4 @@
-# Architecture Overview
-
-## Stack
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-
-## Project Phase
-Detected: **mvp** (46 files)
-
-## Signals
-- Tests: No
-- CI/CD: No
-- Deploy config: No
+## Architecture Overview
+- This project uses Next.js App Router for routing
+- TypeScript is used for type safety
+- Tailwind CSS for styling
