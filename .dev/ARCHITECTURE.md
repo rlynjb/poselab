@@ -7,7 +7,7 @@
 - Tailwind CSS
 
 ## Project Phase
-Detected: **mvp** (40 files)
+Detected: **mvp** (46 files)
 
 ## Signals
 - Tests: No

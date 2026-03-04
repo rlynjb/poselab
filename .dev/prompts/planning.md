@@ -3,7 +3,7 @@
 Given the current project state:
 - **Stack:** Next.js + TypeScript + Tailwind CSS
 - **Phase:** mvp
-- **Files:** 40
+- **Files:** 46
 - **Tests:** No
 - **CI:** No
 
